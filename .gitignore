@@ -1,0 +1,8 @@
+# C++ files
+*.cpp
+*.hpp
+*.h
+
+# Build files
+build/
+.vscode/
