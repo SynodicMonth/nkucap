@@ -1,4 +1,4 @@
-# A simple TUI for capturing network traffic using libpcap.
+# nkucap
 
 A basic terminal user interface (TUI) for capturing network traffic using the libpcap library. 
 
